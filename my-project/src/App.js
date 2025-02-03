@@ -4,14 +4,14 @@ import Header from './Header'
 // import Contact from './Contact'
 import Footer from './Footer'
 import Projects from './Projects'
-import about from './about'
+import About from './About'
 function App() {
   return (
     <div className="App">
 <Header/>
 {/* <Contact/> */}
 <Projects/>
-<about/>
+<About />
 <Footer/>
     </div>
   );
